@@ -1,0 +1,2 @@
+The bot generates QRcode starting from a text, inserted by the user.
+It also reads already existing QRcode, translating them into text.
